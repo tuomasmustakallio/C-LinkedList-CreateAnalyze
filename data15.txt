@@ -1,0 +1,16 @@
+Etunimi;Lukumäärä
+A;25
+Åge;5
+Anneli;120735
+Chris-Marie;5
+Christianna;5
+Christine-Louise;5
+Helena;123162
+Johanna;112280
+Jr;37
+Juhani;284716
+M.;44
+Maria;199564
+Markuksenpoika;73
+Olavi;142397
+Vu;55
